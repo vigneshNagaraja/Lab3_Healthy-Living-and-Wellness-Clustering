@@ -48,13 +48,6 @@ This project explores unsupervised machine learning techniques to segment indivi
 
 ---
 
-## Files
-
-| File                     | Description                              |
-|--------------------------|------------------------------------------|
-| `Lab_3 (4).ipynb`        | Final Jupyter notebook with code and plots |
-| `figure6_pca_clusters.png` | PCA-based cluster visualization         |
-| `LAB3.pdf`               | Final APA-formatted report (if applicable) |
 
 ---
 
